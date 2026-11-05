@@ -1,1 +1,1 @@
-# PrimesInFSharp
+# Primes in F#
